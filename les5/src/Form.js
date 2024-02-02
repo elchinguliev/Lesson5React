@@ -67,7 +67,7 @@ export default function Form({addCar}) {
 
 
   return (
-    <div style={{backgroundColor:"red", color:"white", fontSize:"25px",fontWeight:"bold", marginTop:"-200%"}}>
+    <div style={{backgroundColor:"aquamarine", color:"white", fontSize:"25px",fontWeight:"bold",width:"70%", fontWeight:"bold",color:"Highlight"}}>
 
       <h1>Add </h1>
       <form onSubmit={handleSubmit}>
